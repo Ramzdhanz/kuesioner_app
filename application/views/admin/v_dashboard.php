@@ -2,7 +2,7 @@
   <div class="col-lg-4">
     <div class="card card-chart">
       <div class="card-header">
-        <h5 class="card-category">Resp. Statistic</h5>
+        <h5 class="card-category">Resp. Statistic value</h5>
         <h4 class="card-title">Jumlah Respon</h4>
         <div class="dropdown">
           <button type="button" class="btn btn-round btn-outline-default dropdown-toggle btn-simple btn-icon no-caret" data-toggle="dropdown">
